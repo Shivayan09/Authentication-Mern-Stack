@@ -102,7 +102,7 @@ export const EMAIL_VERIFY_TEMPLATE = `
     <div class="header">
     
 
-      <h2>Quiz Club, NIT Silchar</h2>
+      <h2>Auth project</h2>
     </div>
 
     <div class="main-content">
@@ -120,14 +120,14 @@ export const EMAIL_VERIFY_TEMPLATE = `
 
     <div class="footer">
       <div class="social-icons">
-        <a href="https://www.instagram.com/quizclub_nits/?__d=11">
+        <a href="">
           <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" />
         </a>
-        <a href="https://www.facebook.com/groups/quizclub.nits/">
+        <a href="">
           <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" />
         </a>
       </div>
-      <p>&copy; 2025 Quiz Club, NIT Silchar</p>
+      <p>&copy; 2025 Auth project</p>
     </div>
   </div>
 </body>
