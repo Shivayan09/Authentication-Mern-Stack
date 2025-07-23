@@ -13,7 +13,8 @@ connectDB();
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://authentication-mern-stack-mef4shrdi-shivayans-projects.vercel.app'
+  'https://authentication-mern-stack-mef4shrdi-shivayans-projects.vercel.app',
+  'https://authentication-mern-stack-lac.vercel.app'
 ];
 
 app.use(cors({
